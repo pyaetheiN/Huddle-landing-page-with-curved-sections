@@ -157,7 +157,7 @@ body{
     // bg images
     background-image: 
     url("../images/bg-section-bottom-desktop-2.svg"),
-    url("../images/bg-footer-top-desktop.svg");
+    url("../images/bg-footer-top-desktop.svg") !important;
     background-repeat: no-repeat;
     background-position: top, bottom;
     background-size: 100%;
