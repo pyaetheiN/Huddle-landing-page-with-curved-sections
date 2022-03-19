@@ -1,0 +1,6 @@
+@function rem($value){
+    $remValue: ($value / 16) + rem;
+    @return $remValue;
+}
+
+// first time using sass functions!
