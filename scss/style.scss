@@ -221,6 +221,9 @@ body{
         line-height: 1.5;
         margin: 1.5rem 0 2.5rem;
     }
+    label{
+        display: none;
+    }
     &__email{
         width: 100% !important;
         height: 40px;
@@ -397,7 +400,7 @@ body{
     }
     .community{
         background-image: 
-        url("../images/bg-section-bottom-mobile-2.svg"),
+        url("../images/bg-section-bottom-mobile-2.svg")
         url("../images/bg-footer-top-mobile.svg") !important;
 
         &__title{
