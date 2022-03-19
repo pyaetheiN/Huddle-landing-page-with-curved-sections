@@ -305,7 +305,7 @@ body {
 }
 
 .footer__email {
-  width: 100% !important;
+  width: 290px;
   height: 40px;
   border-radius: 5px;
   outline: none;
@@ -482,6 +482,9 @@ body {
     row-gap: 1.5rem;
   }
   .footer__news-desc, .footer__desc {
+    width: 100%;
+  }
+  .footer__email {
     width: 100%;
   }
   .footer__subscribe {

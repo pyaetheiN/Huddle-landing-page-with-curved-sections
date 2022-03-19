@@ -169,12 +169,8 @@
           <form class="footer__form flex">
             <div> 
               <!-- adding label for html validation -->
-              <label for="footerEmail">
-                <input type="email" name="email" id="footerEmail" class="footer__email" placeholder=" " required>
-              </label>
-              <p class="footer__error">
-                Please check your email again
-              </p>
+              <input type="email" name="email" id="footerEmail" class="footer__email" placeholder=" " required>
+              <label class="footer__error" for="footerEmail">Please check your email again</label>
             </div>
             <button type="submit" class="footer__subscribe">
               <span>Subscribe</span>

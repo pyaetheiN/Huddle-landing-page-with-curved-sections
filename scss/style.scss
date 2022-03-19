@@ -222,7 +222,7 @@ body{
         margin: 1.5rem 0 2.5rem;
     }
     &__email{
-        width: 100% !important;
+        width: 290px;
         height: 40px;
         border-radius: 5px;
         outline: none;
@@ -416,6 +416,9 @@ body{
         }
         &__news-desc,
         &__desc{
+            width: 100%;
+        }
+        &__email{
             width: 100%;
         }
         &__subscribe{
