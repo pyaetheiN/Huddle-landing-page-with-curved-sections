@@ -397,8 +397,8 @@ body{
     }
     .community{
         background-image: 
-        url("../images/bg-section-bottom-mobile-2.svg")
-        url("../images/bg-footer-top-mobile.svg");
+        url("../images/bg-section-bottom-mobile-2.svg"),
+        url("../images/bg-footer-top-mobile.svg") !important;
 
         &__title{
             font-size: 1.8em;
