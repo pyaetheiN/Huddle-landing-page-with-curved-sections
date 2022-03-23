@@ -7,10 +7,4 @@ Things I learned:
  - the two values in " background-size: 100% 100%; " stand for width and height, using just width 100% is amazing for responsiveness
  - invalid email error message pop-up using " :not(:focus):not(:placeholder-shown):invalid "
 
-References I took while taking on this challenge:
- - Vanza Setia's solution
- 
-here's his repository link 
- - https://github.com/vanzasetia/huddle-landing-page-with-curved-section
-
 It was fun coding!
